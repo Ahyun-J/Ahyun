@@ -33,12 +33,12 @@ Hello, I'm Ahyun :)<br/>
 <br/> 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90) -->
-## 👋 Hi, I’m Ahyun
+## 👋 Hi, I’m Ahyun 🍕
 
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
-* 소속 : 한림대학교 소프트웨어융합대학 빅데이터전공 (부전공 : 콘텐츠 IT)
-* 취미 : 사진찍기📷, 그림 그리기🎨<a href="https://www.instagram.com/unduxk._.02/">
+* 소속 : 한림대학교 소프트웨어융합대학 빅데이터전공 | 부전공 : 콘텐츠 IT
+* 취미 : 사진 찍기📷, 그림 그리기🎨<a href="https://www.instagram.com/unduxk._.02/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/unduxk._.02/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -48,7 +48,7 @@ Hello, I'm Ahyun :)<br/>
 <br/><br/>
 
 
-## 💻 Learning 💻
+## 💻 Learning... 💻
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -98,10 +98,12 @@ Hello, I'm Ahyun :)<br/>
 |1|한림소양|오디세이세미나2|1| 
 
 
+<br/><br/>
+## 🌱(과제) 활동
+#### 선형대수 과제물
+-
 
-## 🌱활동
 #### 2021 동아리 하계워크샵
-
 -  자바와 안드로이드 스튜디오에 관하여 학습함
 
 
@@ -110,5 +112,6 @@ Hello, I'm Ahyun :)<br/>
 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
  -->
  
+<br/><br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
