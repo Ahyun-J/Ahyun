@@ -10,15 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-
 <div align = "center">
 
 <br/>
 <h3>Ahyun🍕</h3><br/>
 Hello, I'm Ahyun :)<br/>
-
-<!-- My goal is to give good influence to society.<br/>
-Have a day full of JOY today. -->
 
 
 <br/><br/>
@@ -31,27 +27,6 @@ Have a day full of JOY today. -->
   
 ﹏﹏﹏﹏﹏﹏﹏
 
-<!-- <br/><br/>
- 
-<h3>💻 Tech Stack 💻</h3>
-<h3>💻 Learning 💻</h3>
-<br/>
-
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
--->
 
 </div>
 
@@ -83,20 +58,6 @@ Have a day full of JOY today. -->
 </div>
 
 <br/><br/>
-
-<!-- ## 사용 언어
-1. java
-2. java script
-3. C
-4. C++
-5. Python -->
-
-<!-- ## 취득 자격증
-1. mos Powerpoint 2016
-2. mos Access 2016
-3. mos Excel 2016 Expert
-4. mos Word 2016 Expert
-5. Adobe Premiere Pro -->
 
 ### 2021 수강 내역
 |학기|구분|과목|학점|  
@@ -151,59 +112,3 @@ Have a day full of JOY today. -->
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
-<!-- <div>
-<img src=flip2.png width=150 height=300>  
-<img src=flip.png width=150 height=300>
-  </div>
-  
-2019.06.25 ~ 2019.07.22    
-ABC 하계워크샵 라떼팀에서 **flip the card over**라는 모바일 게임 앱 개발.    
-이를 통해 자바 언어에 대한 자신감, 재미를 느낌.    
-
-#### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
-<div>
-<image src=javascript2.jpg width=200 height=200>
-<image src=image.png width=150 height=200>
-  </div>
-  
-2019.11.07  
-java script를 이용한 코딩 콘테스트 수상.    
-처음으로 코딩으로 돈을 받아봐서 짜릿했다.    
-  
-## 2020 활동
-#### 라떼팀 하계워크샵 주도
-<div>
-  <image src=drawing.jpg width=200 height=200>
-  <image src=latte.png width=200 height=200>
-    </div>
-    
-2020.07.13 ~ 2020.08.07  
-2020에는 라떼 팀원에서 팀장으로 승급.    
-신입생을 대상으로 하계워크샵을 진행.    
-자바 복습과 안드로이드 스튜디오 교육.    
-그때 나의 피폐한 모습을 친구가 그림으로 담음. (왼쪽 사진)    
-
-## 앞으로 해보고 싶은 활동  
-#### 딥러닝
-
-1. 2020 인공지능 특강 참여 
-* 하계 - 7.20 ~ 7.22, 7.27 ~ 7.29
-* 2학기 - 10.30 ~ 10.31
-
-2. '밑바닥부터 시작하는 딥러닝' 책 끝내기  
-<image src=deep.jpg width=200 height=230> -->
-  
-
-<!-- 3. AIFactory 경진대회 참가 (수치 예측)
-
-#### 디지털 포렌식
-디지털 포렌식의 꼼꼼하고 확실한 절차에 매력을 느낌
-BOB 활동을 해볼 수 있길 희망
-
-
-#### 알고리즘 공부
-인터넷에 있는 다양한 알고리즘 챌린지 사이트를 통해  
-나의 코딩 실력을 향상시키고 알고리즘에 대한 빠른 이해를 할 수 있는 상태가 되길 희망
-
-#### 영어 공부
-단순히 토익공부가 아닌 실무와 실생활에 필요한 영어 공부를 이어나갈 예정 -->
