@@ -130,6 +130,17 @@ Hello, I'm Ahyun :)<br/>
 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
  -->
  
+ <br/><br/>
+ 
+ ---
+ 
+<div align = "center">
+
+<br/> 
+ <h3> 감사합니다 :) </h3>
+<br/> </
+
+ 
 <br/><br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
