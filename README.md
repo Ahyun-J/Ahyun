@@ -40,7 +40,7 @@ Hello, I'm Ahyun :)<br/>
 
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
-* 소속 : 한림대학교 소프트웨어융합대학 빅데이터전공 | 부전공 : 콘텐츠 IT
+* 소속 : 한림대학교 소프트웨어융합대학 빅데이터 | 부전공 : 콘텐츠 IT
 * 취미 : 사진 찍기📷, 그림 그리기🎨<a href="https://www.instagram.com/unduxk._.02/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/unduxk._.02/"
