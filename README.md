@@ -102,6 +102,17 @@ Hello, I'm Ahyun :)<br/>
 ## 🌱(과제) 활동
 #### 선형대수 과제물
 -
+<div>
+<img src=선형대수 1.png width=350 height=200>  
+<img src=선형대수 2.png width=350 height=200>
+</div>
+
+<div>
+<img src=선형대수 3.png width=350 height=200>  
+<img src=선형대수 4.png width=350 height=200>
+</div>
+
+<viedo src=선형대수.mp4 width=350 height=200>  
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
