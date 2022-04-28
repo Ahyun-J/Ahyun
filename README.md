@@ -103,22 +103,22 @@ Hello, I'm Ahyun :)<br/>
 #### 선형대수 과제물
 -
 <div>
-<img src=선형대수 1.png width=350 height=200>  
-<img src=선형대수 2.png width=350 height=200>
+<img src=linear1.png width=350 height=200>  
+<img src=linear2.png width=350 height=200>
 </div>
 
 <div>
-<img src=선형대수 3.png width=350 height=200>  
-<img src=선형대수 4.png width=350 height=200>
+<img src=linear3.png width=350 height=200>  
+<img src=linear4.png width=350 height=200>
 </div>
 
-<viedo src=선형대수.mp4 width=350 height=200>  
+<viedo src=linear.mp4 width=350 height=200>  
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
 <div>
-<img src=동아리 1.png width=350 height=200>  
-<img src=동아리 2.png width=350 height=200>
+<img src=latte1-1.png width=350 height=200>  
+<img src=latte1-2.png width=350 height=200>
   </div>
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
