@@ -17,12 +17,14 @@ You can click the Preview link to take a look at your changes.
 Hello, I'm Ahyun :)<br/>
 
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+ 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jah29741@gmail.com)](mailto:jah29741@gmail.com) -->
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
+ 
+<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/jah9400)](https://blog.naver.com/jah9400) -->
  
   
 ﹏﹏﹏﹏﹏﹏﹏
@@ -33,7 +35,8 @@ Hello, I'm Ahyun :)<br/>
 <br/> 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90) -->
-## 👋 Hi, I’m Ahyun 🍕
+<!-- ## 👋 Hi, I’m Ahyun 🍕 -->
+## 👋 자기소개 🍕
 
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
@@ -48,7 +51,8 @@ Hello, I'm Ahyun :)<br/>
 <br/><br/>
 
 
-## 💻 Learning... 💻
+<!-- ## 💻 Learning... 💻 -->
+## 💻 배우고 있는 언어 💻
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -101,7 +105,7 @@ Hello, I'm Ahyun :)<br/>
 <br/><br/>
 ## 🌱(과제) 활동
 #### 선형대수 과제물
--
+- 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
 <img src=linear1.png width=350 height=200>  
 <img src=linear2.png width=350 height=200>
