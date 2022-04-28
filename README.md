@@ -105,7 +105,10 @@ Hello, I'm Ahyun :)<br/>
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
-
+<div>
+<img src=동아리 1.png width=350 height=200>  
+<img src=동아리 2.png width=350 height=200>
+  </div>
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
 <a target="_blank" href="https://office.com">Microsoft Office</a> 
