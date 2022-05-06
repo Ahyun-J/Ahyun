@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 Hello, I'm Ahyun :)<br/>
 
 
-<!-- <br/><br/> -->
+<br/><br/>
 
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jah29741@gmail.com)](mailto:jah29741@gmail.com) -->
  
@@ -63,34 +63,22 @@ Hello, I'm Ahyun :)<br/>
 
 <br/><br/>
 
-### 2021 수강 내역
+### 2021 주요 수강 내역
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|이산구조론|3| 
 |1|공통전선|자바프로그래밍I|3| 
-|1|일반교양|AI를활용한맞춤형일반수학|3|  
 |1|일반교양|디지털리터러시의시작|1|
 |1|일반교양|새내기길잡이|1|
-|1|일반교양|지구촌환경재난|2|  
-|1|일반교양|진로설계|2|  
 |1|일반교양|코딩의시작|1|
 |1|한림소양|오디세이세미나1|1|
-|1|기초|인공지능영어2|3|
 |1|기초|컴퓨팅사고와문제해결-융합|2| 
-
-|학기|구분|과목|학점|  
-|---|---|---|---|  
 |2|공통전선|선형대수|3|  
 |2|공통전선|자바프로그래밍II|3|  
-|2|일반교양|여대생커리어개발과취업전략|2|  
-|2|한림소양|스포츠-태권도와호신술|1|  
-|2|기초|사고와표현|3|  
-|2|기초|일어1|3|
 |2|기초|창의코딩-모두의웹|3| 
-|2|기초|Social Media English|3|
 
 ---
-### 2022 수강 내역
+### 2022 주요 수강 내역
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|C프로그래밍|3|
@@ -98,7 +86,6 @@ Hello, I'm Ahyun :)<br/>
 |1|공통전선|웹프로그래밍|3| 
 |1|공통전선|자료구조|3|  
 |1|공통전선|파이썬과학프로그래밍기초|3|  
-|1|일반교양|생활속의통계학|3
 |1|한림소양|오디세이세미나2|1| 
 
 
