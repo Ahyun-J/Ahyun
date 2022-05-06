@@ -35,8 +35,8 @@ Hello, I'm Ahyun :)<br/>
 <br/> 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90) -->
-<!-- ## 👋 Hi, I’m Ahyun 🍕 -->
-## 👋 자기소개 🍕
+## 👋 Hi, I’m Ahyun 🍕
+<!-- ## 👋 자기소개 🍕 -->
 
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
@@ -51,8 +51,8 @@ Hello, I'm Ahyun :)<br/>
 <br/><br/>
 
 
-<!-- ## 💻 Learning... 💻 -->
-## 💻 배우고 있는 언어 💻
+## 💻 Learning... 💻
+<!-- ## 💻 배우고 있는 언어 💻 -->
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
