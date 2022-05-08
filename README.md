@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 Hello, I'm Ahyun :)<br/>
 
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhyun-J&count_bg=%23CCC9F4&title_bg=%23838383&icon=furrynetwork.svg&icon_color=%238FC8FE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
  
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jah29741@gmail.com)](mailto:jah29741@gmail.com) -->
  
@@ -63,7 +63,7 @@ Hello, I'm Ahyun :)<br/>
 
 <br/><br/>
 
-### 2021 주요 수강 내역
+### 2021 수강 내역
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|이산구조론|3| 
@@ -78,7 +78,7 @@ Hello, I'm Ahyun :)<br/>
 |2|기초|창의코딩-모두의웹|3| 
 
 ---
-### 2022 주요 수강 내역
+### 2022 현재 수강 내역
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|C프로그래밍|3|
