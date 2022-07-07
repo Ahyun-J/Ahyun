@@ -41,11 +41,8 @@ Hello, I'm Ahyun :)<br/>
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
 * 소속 : 한림대학교 소프트웨어융합대학 빅데이터 | 부전공 : 콘텐츠 IT
-* 취미 : 사진 찍기📷, 그림 그리기🎨<a href="https://www.instagram.com/unduxk._.02/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/unduxk._.02/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>, 음악 감상🎵
+* 취미 : <!-- 사진 찍기📷, 그림 그리기🎨 --> 그림🎨 <a href="https://www.instagram.com/unduxk._.02/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unduxk._.02/">
+</a> <!-- , 음악 감상🎵 -->
 * email✉ : 20215247@hallym.ac.kr
 * Github : https://github.com/Ahyun-J
 <br/><br/>
@@ -54,6 +51,7 @@ Hello, I'm Ahyun :)<br/>
 ## 💻 Learning... 💻
 <!-- ## 💻 배우고 있는 언어 💻 -->
 <div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -68,17 +66,18 @@ Hello, I'm Ahyun :)<br/>
 |---|---|---|---|  
 |1|공통전선|이산구조론|3| 
 |1|공통전선|자바프로그래밍I|3| 
-|1|일반교양|디지털리터러시의시작|1|
-|1|일반교양|새내기길잡이|1|
-|1|일반교양|코딩의시작|1|
-|1|한림소양|오디세이세미나1|1|
 |1|기초|컴퓨팅사고와문제해결-융합|2| 
 |2|공통전선|선형대수|3|  
 |2|공통전선|자바프로그래밍II|3|  
 |2|기초|창의코딩-모두의웹|3| 
 
+<!-- |1|일반교양|디지털리터러시의시작|1|
+|1|일반교양|새내기길잡이|1|
+|1|일반교양|코딩의시작|1|
+|1|한림소양|오디세이세미나1|1| -->
+
 ---
-### 2022 현재 수강 내역
+### 2022 수강 내역
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|C프로그래밍|3|
@@ -86,12 +85,12 @@ Hello, I'm Ahyun :)<br/>
 |1|공통전선|웹프로그래밍|3| 
 |1|공통전선|자료구조|3|  
 |1|공통전선|파이썬과학프로그래밍기초|3|  
-|1|한림소양|오디세이세미나2|1| 
+<!-- |1|한림소양|오디세이세미나2|1| -->
 
 
 <br/><br/>
 ## 🌱(과제) 활동
-#### 선형대수 과제물
+<!-- #### 선형대수 과제물
 - 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
 <img src=linear1.png width=350 height=200>  
@@ -110,7 +109,7 @@ Hello, I'm Ahyun :)<br/>
 <div>
 <img src=latte1-1.png width=350 height=200>  
 <img src=latte1-2.png width=350 height=200>
-  </div>
+  </div> -->
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
 <a target="_blank" href="https://office.com">Microsoft Office</a> 
