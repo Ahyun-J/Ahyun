@@ -41,7 +41,7 @@ Hello, I'm Ahyun :)<br/>
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
 * 소속 : 한림대학교 소프트웨어융합대학 빅데이터 | 부전공 : 콘텐츠 IT
-* 취미 : <!-- 사진 찍기📷, 그림 그리기🎨 --> 그림🎨 <a href="https://www.instagram.com/unduxk._.02/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unduxk._.02/">
+* 취미 : <!-- 사진 찍기📷, 그림 그리기🎨 --> 그림🎨 <a href="https://www.instagram.com/muccha._.02/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muccha._.02/">
 </a> <!-- , 음악 감상🎵 -->
 * email✉ : 20215247@hallym.ac.kr
 * Github : https://github.com/Ahyun-J
