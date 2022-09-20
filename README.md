@@ -51,7 +51,7 @@ Hello, I'm Ahyun :)<br/>
 ## 💻 Learning... 💻
 <!-- ## 💻 배우고 있는 언어 💻 -->
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -62,14 +62,23 @@ Hello, I'm Ahyun :)<br/>
 <br/><br/>
 
 ### 2021 수강 내역
-|학기|구분|과목|학점|  
+|학기|구분|과목|
+|---|---|---|
+|1|공통전선|이산구조론|
+|1|공통전선|자바프로그래밍I|
+|1|기초|컴퓨팅사고와문제해결-융합|
+|2|공통전선|선형대수|
+|2|공통전선|자바프로그래밍II|
+|2|기초|창의코딩-모두의웹|
+
+<!--|학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|이산구조론|3| 
 |1|공통전선|자바프로그래밍I|3| 
 |1|기초|컴퓨팅사고와문제해결-융합|2| 
 |2|공통전선|선형대수|3|  
 |2|공통전선|자바프로그래밍II|3|  
-|2|기초|창의코딩-모두의웹|3| 
+|2|기초|창의코딩-모두의웹|3| -->
 
 <!-- |1|일반교양|디지털리터러시의시작|1|
 |1|일반교양|새내기길잡이|1|
@@ -78,6 +87,15 @@ Hello, I'm Ahyun :)<br/>
 
 ---
 ### 2022 수강 내역
+|학기|구분|과목|
+|---|---|---|
+|1|공통전선|C프로그래밍|
+|1|공통전선|데이터사이언스기초|
+|1|공통전선|웹프로그래밍|
+|1|공통전선|자료구조|
+|1|공통전선|파이썬과학프로그래밍기초|
+
+<!-- 
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |1|공통전선|C프로그래밍|3|
@@ -85,7 +103,7 @@ Hello, I'm Ahyun :)<br/>
 |1|공통전선|웹프로그래밍|3| 
 |1|공통전선|자료구조|3|  
 |1|공통전선|파이썬과학프로그래밍기초|3|  
-<!-- |1|한림소양|오디세이세미나2|1| -->
+|1|한림소양|오디세이세미나2|1| -->
 
 
 <br/><br/>
