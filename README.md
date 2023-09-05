@@ -8,7 +8,7 @@
 Ahyun-J/Ahyun-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90)
 
 <div align = "center">
 
@@ -151,5 +151,5 @@ Hello, I'm Ahyun :)<br/>
 
  
 <br/><br/>
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=90)
 
