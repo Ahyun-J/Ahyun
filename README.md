@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <h3>Ahyun🍕</h3><br/>
-Hello, I'm Ahyun :)<br/>
+Hello, I'm Ahyun<br/>
 
 
 <!-- <br/><br/> -->
@@ -149,7 +149,7 @@ Hello, I'm Ahyun :)<br/>
 <div align = "center">
 
 <br/> 
- <h3> 감사합니다! :) </h3>
+ <h3> 감사합니다! 🍕 </h3>
 <br/> </
 
  
