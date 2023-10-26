@@ -166,17 +166,27 @@ Hello, I'm Ahyun<br/>
 <img src=img/겜기초5.PNG width=350 height=200>
 </div>
 
-#### 2022 동아리 전시회
--  [2022년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2022_Latte_Projects)
+#### [2022 동아리 전시회](https://github.com/Ahyun-J/2022_Latte_Projects)
+-  2022년 동아리 소프트웨어 전시회 어플 제작
 <div>
  <img src=img/소전2022_판넬(수정).png width=300 height=400>  
 </div>
 
-#### 2023 동아리 전시회
--  [2023년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2023_Latte_Projects)
+#### [2023 동아리 전시회](https://github.com/Ahyun-J/2023_Latte_Projects)
+-  2023년 동아리 소프트웨어 전시회 어플 제작
 <div>
  <img src=img/간단_설명_이미지.png width=350 height=250>  
 </div>
+
+#### [소프트웨어 캡스톤(진행중)](https://github.com/Ahyun-J/CareBout)
+-  2023년 2학기 소프트웨어캡스톤 반려동물케어 어플 제작 (5인 팀 프로젝트)
+-  의료 탭의 저장 부분을 맡아 진행 / ([의료탭](https://github.com/Ahyun-J/medical/tree/main))
+
+
+<!--
+#### 
+-  
+-->
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
 <a target="_blank" href="https://office.com">Microsoft Office</a> 
