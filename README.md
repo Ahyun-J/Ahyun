@@ -113,10 +113,28 @@ Hello, I'm Ahyun<br/>
 |1|공통전선|파이썬과학프로그래밍기초|3|  
 |1|한림소양|오디세이세미나2|1| -->
 
+---
+### 2023 수강 내역
+|학기|구분|과목|
+|---|---|---|
+|1|공통전선|데이터마이닝|
+|1|공통전선|데이터베이스시스템|
+|1|공통전선|멀티미디어개론|
+|1|공통전선|운영체제|
+
+### 2023 현재 수강 내역
+|학기|구분|과목|
+|---|---|---|
+|2|공통전선|모바일프로그래밍|
+|2|공통전선|오픈소스하드웨어응용|
+|2|공통전선|소프트웨어세미나II|
+|2|공통전선|소프트웨어특강II|
+|2|공통전선|소프트웨어캡스톤디자인	|
+
 
 <br/><br/>
 ## 🌱(과제) 활동
-<!-- #### 선형대수 과제물
+#### 2021-2 선형대수 과제
 - 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
 <img src=linear1.png width=350 height=200>  
@@ -132,10 +150,25 @@ Hello, I'm Ahyun<br/>
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
+-  학교 내 지름길 어플 제작 (2인 팀프로젝트)
 <div>
 <img src=latte1-1.png width=350 height=200>  
 <img src=latte1-2.png width=350 height=200>
-  </div> -->
+</div>
+
+#### 2022-2 VR/AR/게임제작기초 프로젝트
+-  2022년 2학기 VR/AR/게임제작기초 과목 기말 프로젝트
+<div>
+<img src=latte1-1.png width=350 height=200>  
+<img src=latte1-2.png width=350 height=200>
+</div>
+
+#### 2022 동아리 전시회
+-  [2022년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2022_Latte_Projects)
+
+#### 2023 동아리 전시회
+-  [2023년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2023_Latte_Projects)
+
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
 <a target="_blank" href="https://office.com">Microsoft Office</a> 
@@ -149,7 +182,7 @@ Hello, I'm Ahyun<br/>
 <div align = "center">
 
 <br/> 
- <h3> 감사합니다! 🍕 </h3>
+ <h3> 감사합니다 🍕 </h3>
 <br/> </
 
  
