@@ -137,33 +137,33 @@ Hello, I'm Ahyun<br/>
 #### 2021-2 선형대수 과제
 - 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
-<img src=linear1.png width=350 height=200>  
-<img src=linear2.png width=350 height=200>
+<img src=img/linear1.png width=350 height=200>  
+<img src=img/linear2.png width=350 height=200>
 </div>
 
 <div>
-<img src=linear3.png width=350 height=200>  
-<img src=linear4.png width=350 height=200>
+<img src=img/linear3.png width=350 height=200>  
+<img src=img/linear4.png width=350 height=200>
 </div>
 
-<viedo src=linear.mp4 width=350 height=200>  
+<viedo src=img/linear.mp4 width=350 height=200>  
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
 -  학교 내 지름길 어플 제작 (2인 팀프로젝트)
 <div>
-<img src=latte1-1.png width=350 height=200>  
-<img src=latte1-2.png width=350 height=200>
+<img src=img/latte1-1.png width=350 height=200>  
+<img src=img/latte1-2.png width=350 height=200>
 </div>
 
 #### 2022-2 VR/AR/게임제작기초 프로젝트
 -  2022년 2학기 VR/AR/게임제작기초 과목 기말 프로젝트
 <div>
-<img src=슬라이드3.PNG width=350 height=200>  
-<img src=슬라이드4.PNG width=350 height=200>
-<img src=슬라이드5.PNG width=350 height=200>
-<img src=슬라이드6.PNG width=350 height=200>
-<img src=슬라이드7.PNG width=350 height=200>
+<img src=img/겜기초1.PNG width=350 height=200>  
+<img src=img/겜기초2.PNG width=350 height=200>
+<img src=img/겜기초3.PNG width=350 height=200>
+<img src=img/겜기초4.PNG width=350 height=200>
+<img src=img/겜기초5.PNG width=350 height=200>
 </div>
 
 #### 2022 동아리 전시회
