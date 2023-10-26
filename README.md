@@ -169,13 +169,13 @@ Hello, I'm Ahyun<br/>
 #### 2022 동아리 전시회
 -  [2022년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2022_Latte_Projects)
 <div>
- <img src=img/간단_설명_이미지.png width=350 height=200>  
+ <img src=img/소전2022_판넬(수정).png width=300 height=400>  
 </div>
 
 #### 2023 동아리 전시회
 -  [2023년 동아리 소프트웨어 전시회 어플 제작](https://github.com/Ahyun-J/2023_Latte_Projects)
 <div>
- <img src=img/소전2022_판넬(수정).png width=350 height=200>  
+ <img src=img/간단_설명_이미지.png width=350 height=250>  
 </div>
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
