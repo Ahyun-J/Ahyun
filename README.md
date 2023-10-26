@@ -159,8 +159,11 @@ Hello, I'm Ahyun<br/>
 #### 2022-2 VR/AR/게임제작기초 프로젝트
 -  2022년 2학기 VR/AR/게임제작기초 과목 기말 프로젝트
 <div>
-<img src=슬라이드3.png width=350 height=200>  
-<img src=슬라이드4.png width=350 height=200>
+<img src=슬라이드3.PNG width=350 height=200>  
+<img src=슬라이드4.PNG width=350 height=200>
+<img src=슬라이드5.PNG width=350 height=200>
+<img src=슬라이드6.PNG width=350 height=200>
+<img src=슬라이드7.PNG width=350 height=200>
 </div>
 
 #### 2022 동아리 전시회
