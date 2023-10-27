@@ -41,7 +41,7 @@ Hello, I'm Ahyun<br/>
 * 이름 : 조아현
 * 생년월일 : 2002.12.23  
 * 소속 : 한림대학교 소프트웨어융합대학 빅데이터 | 부전공 : 콘텐츠 IT
-* 취미 : <!-- 사진 찍기📷, 그림 그리기🎨 --> 그림🎨 <a href="https://www.instagram.com/mu_ccha/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muccha._.02/">
+* 취미 : <!-- 사진 찍기📷, 그림 그리기🎨 --> 그림🎨 <a href="https://www.instagram.com/mu_ccha/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mu_ccha/">
 </a> <!-- , 음악 감상🎵 -->
 * email✉ : 20215247@hallym.ac.kr
 * Github : https://github.com/Ahyun-J
@@ -49,9 +49,20 @@ Hello, I'm Ahyun<br/>
 
 
 <!--## 💻 Learning... 💻-->
- ## 💻 배우고 있는 언어 💻 
+<!-- ## 💻 배우고 있는 언어 💻 
+ <div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <br/>
+<img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobelightroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe Photoshop-368AFF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />   
+ </div> 
+ -->
+ 
+<!--
 <div>
-<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobelightroom&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Photoshop-368AFF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />    
 <br/>
@@ -60,10 +71,14 @@ Hello, I'm Ahyun<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
 </div>
- -->
+-->
+
 <br/><br/>
 
+## 📚 수강 내역 📚
 ### 2021 수강 내역
 |학기|구분|과목|
 |---|---|---|
@@ -133,7 +148,7 @@ Hello, I'm Ahyun<br/>
 
 
 <br/><br/>
-## 🌱(과제) 활동
+## 🌱과제 및 활동
 #### 2021-2 선형대수 과제
 - 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
@@ -144,9 +159,8 @@ Hello, I'm Ahyun<br/>
 <div>
 <img src=img/linear3.png width=350 height=200>  
 <img src=img/linear4.png width=350 height=200>
-</div>
-
 <viedo src=img/linear.mp4 width=350 height=200>  
+</div>
 
 #### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
@@ -166,14 +180,14 @@ Hello, I'm Ahyun<br/>
 <img src=img/겜기초5.PNG width=350 height=200>
 </div>
 
-#### [2022 동아리 전시회](https://github.com/Ahyun-J/2022_Latte_Projects)
--  2022년 동아리 소프트웨어 전시회 어플 제작
+#### 2022 동아리 전시회
+-  2022년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2022_Latte_Projects))
 <div>
  <img src=img/소전2022_판넬(수정).png width=300 height=400>  
 </div>
 
-#### [2023 동아리 전시회](https://github.com/Ahyun-J/2023_Latte_Projects)
--  2023년 동아리 소프트웨어 전시회 어플 제작
+#### 2023 동아리 전시회
+-  2023년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2023_Latte_Projects))
 <div>
  <img src=img/간단_설명_이미지.png width=350 height=250>  
 </div>
