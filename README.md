@@ -173,6 +173,8 @@ Hello, I'm Ahyun<br/>
 </div>
 <br>
 
+---
+
 ### 2022-2 VR/AR/게임제작기초 프로젝트
 -  2022년 2학기 VR/AR/게임제작기초 과목 기말 프로젝트
 <div>
@@ -191,12 +193,7 @@ Hello, I'm Ahyun<br/>
 </div>
 <br>
 
-### 2023 동아리 전시회
--  2023년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2023_Latte_Projects))
-<div>
- <img src=img/간단_설명_이미지.png width=350 height=250>  
-</div>
-<br>
+---
 
 ### [2023-2 소프트웨어캡스톤디자인](https://github.com/Ahyun-J/CareBout)
 -  2023년 2학기 소프트웨어캡스톤 반려동물케어 어플 제작 (5인 팀 프로젝트)
@@ -251,6 +248,14 @@ Hello, I'm Ahyun<br/>
 </p>
 <br>
 
+### 2023 동아리 전시회
+-  2023년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2023_Latte_Projects))
+<div>
+ <img src=img/간단_설명_이미지.png width=350 height=250>  
+</div>
+<br>
+
+
 
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
@@ -266,7 +271,7 @@ Hello, I'm Ahyun<br/>
 
 <br/> 
  <h3> 감사합니다 🍕 </h3>
-<br/> </
+<br/>
 
  
 <br/><br/>
