@@ -49,15 +49,15 @@ Hello, I'm Ahyun<br/>
 
 
 <!--## 💻 Learning... 💻-->
-<!-- ## 💻 배우고 있는 언어 💻 
+## 💻 배우고 있는 언어 💻 
  <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
   <br/>
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobelightroom&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Photoshop-368AFF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />   
  </div> 
- -->
  
 <!--
 <div>
@@ -72,7 +72,7 @@ Hello, I'm Ahyun<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+
 </div>
 -->
 
@@ -149,7 +149,7 @@ Hello, I'm Ahyun<br/>
 
 <br/><br/>
 ## 🌱과제 및 활동
-#### 2021-2 선형대수 과제
+### 2021-2 선형대수 프로젝트
 - 2021년 2학기 선형대수 과목 기말 프로젝트
 <div>
 <img src=img/linear1.png width=350 height=200>  
@@ -161,16 +161,18 @@ Hello, I'm Ahyun<br/>
 <img src=img/linear4.png width=350 height=200>
 <viedo src=img/linear.mp4 width=350 height=200>  
 </div>
+<br>
 
-#### 2021 동아리 하계워크샵
+### 2021 동아리 하계워크샵
 -  자바와 안드로이드 스튜디오에 관하여 학습함
 -  학교 내 지름길 어플 제작 (2인 팀프로젝트)
 <div>
 <img src=img/latte1-1.png width=350 height=200>  
 <img src=img/latte1-2.png width=350 height=200>
 </div>
+<br>
 
-#### 2022-2 VR/AR/게임제작기초 프로젝트
+### 2022-2 VR/AR/게임제작기초 프로젝트
 -  2022년 2학기 VR/AR/게임제작기초 과목 기말 프로젝트
 <div>
 <img src=img/겜기초1.PNG width=350 height=200>  
@@ -179,20 +181,23 @@ Hello, I'm Ahyun<br/>
 <img src=img/겜기초4.PNG width=350 height=200>
 <img src=img/겜기초5.PNG width=350 height=200>
 </div>
+<br>
 
-#### 2022 동아리 전시회
+### 2022 동아리 전시회
 -  2022년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2022_Latte_Projects))
 <div>
  <img src=img/소전2022_판넬(수정).png width=300 height=400>  
 </div>
+<br>
 
-#### 2023 동아리 전시회
+### 2023 동아리 전시회
 -  2023년 동아리 소프트웨어 전시회 어플 제작 / ([📱 링크](https://github.com/Ahyun-J/2023_Latte_Projects))
 <div>
  <img src=img/간단_설명_이미지.png width=350 height=250>  
 </div>
+<br>
 
-#### [2023-2 소프트웨어캡스톤디자인](https://github.com/Ahyun-J/CareBout)
+### [2023-2 소프트웨어캡스톤디자인](https://github.com/Ahyun-J/CareBout)
 -  2023년 2학기 소프트웨어캡스톤 반려동물케어 어플 제작 (5인 팀 프로젝트)
 -  의료 탭의 저장 부분을 맡아 진행 / ([의료탭](https://github.com/Ahyun-J/medical/tree/main))
 <div>
@@ -206,10 +211,46 @@ Hello, I'm Ahyun<br/>
 </div>
 <br>
 
-<!--
-#### 
--  
--->
+### 2023-2 오픈소스하드웨어응용 기말 프로젝트
+- 2023년 2학기 오픈소스하드웨어응용 과목 기말 프로젝트
+- 반려동물과 함께 지낼 때 주변 환경에 대한 조성을 아두이노로 구성
+<div>
+<!-- <img src="https://github.com/Ahyun-J/Ahyun/assets/99587191/4f1c6d97-cbd4-4b70-be07-9b7fe6b46d8d" width=350 height=250/>   -->
+</div>
+<br>
+
+### 2023-2 모바일프로그래밍 프로젝트
+-  2023년 2학기 모바일프로그래밍 과목 프로젝트
+-  계산기 어플, 계산기에 있지 않는 창의적이고 재미있을 법한 기능들을 추가함
+
+ <p>
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/31af564f-eaa3-4da5-a082-ad69739f168f" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/60108780-3b22-4526-a567-93368285191b" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/f24daf95-2a8c-4c81-8080-2f57cfad510d" width=350 height=250/>  
+ </p>
+ <p>
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/f3569d95-f2e7-4811-b1d0-ef01ae6a2c1a" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/d59d2df7-bc8d-4c21-bed7-95a7268c43ed" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/9c05e7e7-79c9-4508-9d4d-25886430e555" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/cd4c8829-ad69-4479-b17e-ecea03c07cc1" width=350 height=250/>  
+ </p>
+ <p>
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/44838c90-20d5-4a6d-b61f-13772571074e" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/53ae020d-cab5-4111-8bd3-ca28adb26d49" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/8a2226af-c0fa-46ad-9eba-170cb79602f9" width=350 height=250/> 
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/187c0af4-73bf-4a73-a0f7-ca85d196279f" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/b8dc4a55-6316-4f4e-9c59-435cea885e92" width=350 height=250/>  
+</p>
+<p>
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/dcd0db39-32c1-416d-b195-f817a1974169" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/819263b3-6666-43b3-86d8-53f6a741b43c" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/65b95222-cc38-47bc-94a3-aa6dd935dea6" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/270e97db-2b51-4d35-82ce-ac0e64a16dc3" width=350 height=250/>  
+<img src="https://github.com/Ahyun-J/Study/assets/99587191/47d00ef7-9835-4102-abad-aa32cbf2c1be" width=350 height=250/>  
+</p>
+<br>
+
+
 
 <!-- -  <iframe src="https://1drv.ms/p/s!AoB8x3vxk5D5gek7gpWeY8ZkbndVbA" width="610px" height="367px" frameborder="0">포함된 
 <a target="_blank" href="https://office.com">Microsoft Office</a> 
