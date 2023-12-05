@@ -8,6 +8,7 @@
 Ahyun-J/Ahyun-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90)
 
 <div align = "center">
@@ -215,7 +216,7 @@ Hello, I'm Ahyun<br/>
 - 2023년 2학기 오픈소스하드웨어응용 과목 기말 프로젝트
 - 반려동물과 함께 지낼 때 주변 환경에 대한 조성을 아두이노로 구성
 <div>
-<!-- <img src="https://github.com/Ahyun-J/Ahyun/assets/99587191/4f1c6d97-cbd4-4b70-be07-9b7fe6b46d8d" width=350 height=250/>   -->
+<img src="https://github.com/Ahyun-J/Ahyun/assets/99587191/4f1c6d97-cbd4-4b70-be07-9b7fe6b46d8d" width=350 height=250/>  
 </div>
 <br>
 
