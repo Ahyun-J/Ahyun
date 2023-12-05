@@ -56,8 +56,8 @@ Hello, I'm Ahyun<br/>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
   <br/>
-<img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobelightroom&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Photoshop-368AFF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />   
+<img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobelightroom&logoColor=white" />
  </div> 
  
 <!--
