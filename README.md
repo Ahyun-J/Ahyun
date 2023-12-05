@@ -192,10 +192,19 @@ Hello, I'm Ahyun<br/>
  <img src=img/간단_설명_이미지.png width=350 height=250>  
 </div>
 
-#### [소프트웨어 캡스톤(진행중)](https://github.com/Ahyun-J/CareBout)
+#### [2023-2 소프트웨어캡스톤디자인](https://github.com/Ahyun-J/CareBout)
 -  2023년 2학기 소프트웨어캡스톤 반려동물케어 어플 제작 (5인 팀 프로젝트)
 -  의료 탭의 저장 부분을 맡아 진행 / ([의료탭](https://github.com/Ahyun-J/medical/tree/main))
-
+<div>
+<img src="https://github.com/dalyeon2/CareBout/assets/99587191/dfa337e4-8308-4d34-b6df-1e9015777fcb" width="170" height="320"/>   
+  &emsp;
+<img src="https://github.com/dalyeon2/CareBout/assets/99587191/eb5517d9-8e6c-4c4c-8add-e2a6070f110f" width="170" height="320"/>   
+  &emsp;
+<img src="https://github.com/dalyeon2/CareBout/assets/99587191/d2c1d15c-abac-4b40-9a35-17803d4ae6b5" width="170" height="320"/>   
+  &emsp;
+<img src="https://github.com/dalyeon2/CareBout/assets/99587191/6cbd36eb-1f5b-45d5-8267-5e6bb8392084" width="170" height="320"/>   
+</div>
+<br>
 
 <!--
 #### 
