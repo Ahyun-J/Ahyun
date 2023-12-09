@@ -50,7 +50,7 @@ Hello, I'm Ahyun<br/>
 
 
 <!--## 💻 Learning... 💻-->
-## 💻 배우고 있는 언어 💻 
+## 💻 배우고 있는 내용 💻 
  <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
